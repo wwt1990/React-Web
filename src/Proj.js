@@ -6,20 +6,23 @@ class Proj extends Component {
 
   render() {
     const projList = [
-      'Calculator',
-      'Search',
-      'Dynamic',
-      'Multisearch',
-      'Todo',
-      'Chart',
-      'Gif',
+      'Autocomplete',
       'Barchart',
-      'Move',
+      'Calculator',
+      'Chart',
+      'Dynamic',
       'Form',
-      'Space',
+      'Gif',
+      'Move',
+      'Multisearch',
       'Quote',
+      'Redux.Login',
+      'Router',
+      'Search',
+      'Space',
+      'Todo',
       'Weather',
-      'Wiki',
+      'Wiki'
     ];
 
     const btnGroup = projList.map((proj, index) => {
@@ -41,21 +44,19 @@ class Proj extends Component {
           }
         </Media>
         <div style={{textIndent:'20px', marginLeft: '30px',marginRight: '30px'}}>
-          <p>These are 14 projects I built to improve my understanding of React while working through&nbsp;
+          <p>These are 17 projects I built to improve my understanding of React while working through&nbsp;
             <a href='http://sean-smith.me/assets/portfolio/25-react-projects/index.html'
                target='_blank'
                rel="noopener noreferrer">
                Sean Smith</a>&apos;s website. Check them out! Also, see all the projects live and a full summary of what I learned on my&nbsp;
-            <a href='https://github.com/wwt1990/projects/tree/master/react%20projects'
+            <a href='https://github.com/wwt1990/React-Projects'
                target='_blank'
                rel="noopener noreferrer">
                GitHub
             </a>.
           </p>
-          <div className="btn-toolbar mb-3 d-flex justify-content-center" style={{width:'100%'}} role="toolbar" aria-label="Toolbar with button groups">
-            <div className="btn-group" role="group" aria-label="First group">
-              {btnGroup}
-            </div>
+          <div className="btn-toolbar btn-group mb-3 d-flex justify-content-surround" style={{width:'100%'}} role="toolbar" aria-label="Toolbar with button groups">
+            {btnGroup}
           </div>
           <div>
              <iframe className="mx-auto" name="iframe_a" title='react-projects' style={{border:"none", width:'100%', height:window.screen.height*0.7}}></iframe>

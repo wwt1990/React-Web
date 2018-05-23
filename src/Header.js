@@ -32,9 +32,11 @@ class Header extends Component {
                 <li className="nav-item">
                   <a className="nav-link" href="/react-projects" style={projBg}>React Projects</a>
                 </li>
+                {/*
                 <li className="nav-item">
                   <a className="nav-link" href="/other-projects" style={otherBg}>Other projects</a>
                 </li>
+                */}
               </ul>
               <ul className="nav navbar-nav ml-auto">
                 <li className="nav-item">
@@ -54,20 +56,22 @@ class Header extends Component {
                             style={{cursor:'pointer',textDecoration:'none'}}
                             type="button" >
                       <a className="dropdown-item"
-                         href='https://github.com/wwt1990/projects/tree/master/react%20projects'
+                         href='https://github.com/wwt1990'
                          target='_blank'
                          rel="noopener noreferrer">GitHub
                       </a>
                     </button>
-                    <button className="btn btn-link"
-                            style={{cursor:'pointer',textDecoration:'none'}}
-                            type="button" >
-                      <a className="dropdown-item"
-                         href='https://www.linkedin.com/in/weitian-wu-85867785'
-                         target='_blank'
-                         rel="noopener noreferrer">Linkedin
-                      </a>
-                    </button>
+                    {/*
+                      <button className="btn btn-link"
+                              style={{cursor:'pointer',textDecoration:'none'}}
+                              type="button" >
+                        <a className="dropdown-item"
+                           href='https://www.linkedin.com/in/weitian-wu-85867785'
+                           target='_blank'
+                           rel="noopener noreferrer">Linkedin
+                        </a>
+                      </button>
+                    */}
                   </div>
                 </li>
               </ul>

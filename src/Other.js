@@ -65,7 +65,7 @@ class Other extends Component {
                                   <li>Used non-linear SVM to train the data and achieved 98.043% accuracy on Kaggle Leaderboard</li>
                                   <li>Utilized Keras using TensorFlow backend to model a Convolutional Neural Network with one CNN layer and two FC layers to train the data and achieved 98.686% accuracy on Kaggle Leaderboard</li>
                                 </ul>
-                              <a href='https://github.com/wwt1990/projects/tree/master/Python%20Projects/mnist' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
+                              <a href='https://github.com/wwt1990/MNIST' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
                               </div>
                               <div className="modal-footer">
                                 <button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -106,7 +106,7 @@ class Other extends Component {
                                   <li>Added three CNN layers and two FC layers to the model and got less train loss and valid loss on the training data and achieved 1.899 RMSE</li>
                                   <li>Used data augmentation (applied flip on the images), changed learning rate and momentum, and applied early stopping and added more CNN layers to the model</li>
                                 </ul>
-                              <a href='https://github.com/wwt1990/projects/tree/master/Python%20Projects/face' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
+                              <a href='https://github.com/wwt1990/Facial-Keypoints-Detection' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
                               </div>
                               <div className="modal-footer">
                                 <button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -149,7 +149,7 @@ class Other extends Component {
                                   <li>Trained the data by using dlib, TorchNeuralNet and openface in Python and built a classifier to classify faces</li>
                                   <li>Tested the classifier on one new video and calculated the precision and recall and F-1 score</li>
                                 </ul>
-                              <a href='https://github.com/wwt1990/projects/tree/master/Python%20Projects/face_capture_from_video' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
+                              <a href='https://github.com/wwt1990/Face-Capture-From-Video' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
                               </div>
                               <div className="modal-footer">
                                 <button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -191,7 +191,7 @@ class Other extends Component {
                                   <li>Forecasted and provided prediction intervals for the index values of the future values</li>
                                   <li>Detected when housing bubble began and busted</li>
                                </ul>
-                              <a href='https://github.com/wwt1990/projects/tree/master/R%20Projects/time%20series' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
+                              <a href='https://github.com/wwt1990/Time-Series' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
                               </div>
                               <div className="modal-footer">
                                 <button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -235,7 +235,7 @@ class Other extends Component {
                                   <li>Used Cox proportional-hazards model with time-independent covariates and residuals to access model adequacy</li>
                                   <li>Found the main factors that influence movie gross</li>
                                 </ul>
-                              <a href='https://github.com/wwt1990/projects/tree/master/R%20Projects/survival%20analysis' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
+                              <a href='https://github.com/wwt1990/Survival-Analysis' target='_blank' rel="noopener noreferrer">Link to GitHub</a>
                               </div>
                               <div className="modal-footer">
                                 <button type="button" className="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -299,7 +299,7 @@ class Other extends Component {
                           </div>
                         </div>
                       </td>
-                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/projects/tree/master/Python%20Projects/mnist' target='_blank' rel="noopener noreferrer">GitHub</a></td>
+                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/MNIST' target='_blank' rel="noopener noreferrer">GitHub</a></td>
                     </tr>
                     <tr>
                       <th scope="row">2</th>
@@ -338,7 +338,7 @@ class Other extends Component {
                           </div>
                         </div>
                       </td>
-                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/projects/tree/master/Python%20Projects/face' target='_blank' rel="noopener noreferrer">GitHub</a></td>
+                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/Facial-Keypoints-Detection' target='_blank' rel="noopener noreferrer">GitHub</a></td>
                     </tr>
                     <tr>
                       <th scope="row">3</th>
@@ -379,7 +379,7 @@ class Other extends Component {
                           </div>
                         </div>
                       </td>
-                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/projects/tree/master/Python%20Projects/face_capture_from_video' target='_blank' rel="noopener noreferrer">GitHub</a></td>
+                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/Face-Capture-From-Video' target='_blank' rel="noopener noreferrer">GitHub</a></td>
                     </tr>
                     <tr>
                       <th scope="row">4</th>
@@ -419,7 +419,7 @@ class Other extends Component {
                           </div>
                         </div>
                       </td>
-                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/projects/tree/master/R%20Projects/time%20series' target='_blank' rel="noopener noreferrer">GitHub</a></td>
+                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/Time-Series' target='_blank' rel="noopener noreferrer">GitHub</a></td>
                     </tr>
                     <tr>
                       <th scope="row">5</th>
@@ -460,7 +460,7 @@ class Other extends Component {
                           </div>
                         </div>
                       </td>
-                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/projects/tree/master/R%20Projects/survival%20analysis' target='_blank' rel="noopener noreferrer">GitHub</a></td>
+                      <td style={{verticalAlign:'middle',textAlign:'center'}}><a href='https://github.com/wwt1990/Survival-Analysis' target='_blank' rel="noopener noreferrer">GitHub</a></td>
                     </tr>
                   </tbody>
                 </table>

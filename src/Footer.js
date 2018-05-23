@@ -10,20 +10,22 @@ class Footer extends Component {
             <ul className="list-unstyled list-inline">
                 <li className="list-inline-item">
                   <a className="btn-floating btn-sm btn-github mx-1"
-                     href='https://github.com/wwt1990/projects/tree/master/react%20projects'
+                     href='https://github.com/wwt1990'
                      target='_blank'
                      rel="noopener noreferrer">
                      <i className="fa fa-github"> </i>
                   </a>
                 </li>
-                <li className="list-inline-item">
-                  <a className="btn-floating btn-sm btn-li mx-1"
-                     href='https://www.linkedin.com/in/weitian-wu-85867785/'
-                     target='_blank'
-                     rel="noopener noreferrer">
-                     <i className="fa fa-linkedin"> </i>
-                  </a>
-                </li>
+                {/*
+                  <li className="list-inline-item">
+                    <a className="btn-floating btn-sm btn-li mx-1"
+                       href='https://www.linkedin.com/in/weitian-wu-85867785/'
+                       target='_blank'
+                       rel="noopener noreferrer">
+                       <i className="fa fa-linkedin"> </i>
+                    </a>
+                  </li>
+                */}
               </ul>
           </div>
           <div className="footer-copyright py-3 text-center">

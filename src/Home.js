@@ -28,11 +28,11 @@ class Home extends Component {
             <div className="card bg-light mb-3" >
               <div className="card-body">
                 <p className="card-text">I am a <span className='font-weight-bold font-italic'>frondend web developer</span> -
-                     I like to involve myself in the design of a website as well as the realization of it.
-                     I self-studied HTML5, CSS, Javascript as well as many UI frameworks and libraries.
-                     As an employee at <a href='http://www.chatshi.com/app/#!/home' target='_blank' rel="noopener noreferrer">
-                     Shishuo Technology Co., Ltd.</a>, I&#39;m currently working on developing a web and mobile
-                     application whose features include user system management and communication among users.</p>
+                   I like to involve myself in the design of a website as well as the realization of it.
+                   I have been working in Frontend technologies since 2012. In the past few years, I was working heavily on React.js and jQuery.
+                   And my favourite frameworks and libraries are React.js, Redux, jQuery and Bootstrap.
+                   I&#39;m currently working at Apple, Inc.
+                </p>
               </div>
             </div>
           </div>
@@ -40,8 +40,7 @@ class Home extends Component {
             <div className="card bg-light mb-3" >
               <div className="card-body">
                 <p className="card-text">I am a <span className='font-weight-bold font-italic'>data scientist</span> -
-                      I possess a master&#39;s degree in Statistics and I&#39;m proficient in data-related
-                      programming languages such as Python, R and SAS, and database languages such as SQL
+                      I&#39;m proficient in data-related programming languages such as Python, R and SAS, and database languages such as SQL
                       Server and MySQL. In my spare time, I like to do some machine learning projects and
                       deep learning projects on Kaggle to keep my data acuity.</p>
               </div>
@@ -61,7 +60,7 @@ class Home extends Component {
           </div>
         </div>
 
-        <p className='lead m-3'>This blog is built on React and Bootstrap 4. Feel free to browse my <a href='/react-projects'>react projects</a> and <a href='/other-projects'>other projects</a> and learn more about me.</p>
+        <p className='lead m-3'>This blog is built on React and Bootstrap 4. Feel free to browse my <a href='/react-projects'>react projects</a> {/*and <a href='/other-projects'>other projects</a>*/} and learn more about me.</p>
 
       </div>
     );
