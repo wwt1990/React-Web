@@ -32,11 +32,9 @@ class Header extends Component {
                 <li className="nav-item">
                   <a className="nav-link" href="/react-projects" style={projBg}>React Projects</a>
                 </li>
-                {/*
                 <li className="nav-item">
                   <a className="nav-link" href="/other-projects" style={otherBg}>Other projects</a>
                 </li>
-                */}
               </ul>
               <ul className="nav navbar-nav ml-auto">
                 <li className="nav-item">
@@ -61,17 +59,6 @@ class Header extends Component {
                          rel="noopener noreferrer">GitHub
                       </a>
                     </button>
-                    {/*
-                      <button className="btn btn-link"
-                              style={{cursor:'pointer',textDecoration:'none'}}
-                              type="button" >
-                        <a className="dropdown-item"
-                           href='https://www.linkedin.com/in/weitian-wu-85867785'
-                           target='_blank'
-                           rel="noopener noreferrer">Linkedin
-                        </a>
-                      </button>
-                    */}
                   </div>
                 </li>
               </ul>

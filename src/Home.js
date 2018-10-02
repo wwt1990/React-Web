@@ -29,9 +29,9 @@ class Home extends Component {
               <div className="card-body">
                 <p className="card-text">I am a <span className='font-weight-bold font-italic'>frondend web developer</span> -
                    I like to involve myself in the design of a website as well as the realization of it.
-                   I have been working in Frontend technologies since 2012. In the past few years, I was working heavily on React.js and jQuery.
+                   I have been working in Frontend technologies since 2017. In the past few years, I was working heavily on React.js and jQuery.
                    And my favourite frameworks and libraries are React.js, Redux, jQuery and Bootstrap.
-                   I&#39;m currently working at Apple, Inc.
+                   I have worked at Apple, Inc. and Hangzhou Shishuo Technologies.
                 </p>
               </div>
             </div>

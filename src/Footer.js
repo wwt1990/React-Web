@@ -16,16 +16,6 @@ class Footer extends Component {
                      <i className="fa fa-github"> </i>
                   </a>
                 </li>
-                {/*
-                  <li className="list-inline-item">
-                    <a className="btn-floating btn-sm btn-li mx-1"
-                       href='https://www.linkedin.com/in/weitian-wu-85867785/'
-                       target='_blank'
-                       rel="noopener noreferrer">
-                       <i className="fa fa-linkedin"> </i>
-                    </a>
-                  </li>
-                */}
               </ul>
           </div>
           <div className="footer-copyright py-3 text-center">
