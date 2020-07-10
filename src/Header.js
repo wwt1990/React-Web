@@ -12,7 +12,7 @@ class Header extends Component {
       <div className='container'>
         <nav className="navbar navbar-expand-lg navbar-light bg-faded">
           <div className='container'>
-            <a className="navbar-brand" href="/">Weitian&apos;s Blog</a>
+            <a className="navbar-brand" href="/">Weitian&apos;s Space</a>
             <button className="navbar-toggler"
                     type="button"
                     data-toggle="collapse"

@@ -20,7 +20,7 @@ class Footer extends Component {
           </div>
           <div className="footer-copyright py-3 text-center">
             <div className="container-fluid">
-                &copy; 2018 Copyright: <a href="/" className='text-muted'> weitian.me </a>
+                &copy; 2018-2020 Copyright: <a href="/" className='text-muted'> weitian.me </a>
             </div>
           </div>
         </footer>
