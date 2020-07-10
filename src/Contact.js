@@ -16,7 +16,7 @@ class Contact extends Component {
             }
           </Media>
           <div className='large' style={{textIndent:'20px', marginLeft: '30px',marginRight: '30px'}}>
-            <p>Thank you for visiting! If you would like to get in touche with me, here is my e-mail address: <a href="mailto:weitian.me@gmail.com?Subject=Hello%20blog" target="_top">weitian.me@gmail.com</a></p>
+            <p>Thank you for visiting! If you would like to get in touche with me, here is my e-mail address: <a href="mailto:weitian.me@gmail.com" target="_top">weitian.me@gmail.com</a></p>
           </div>
         </div>
       </div>

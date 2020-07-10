@@ -16,7 +16,7 @@ class Home extends Component {
               ) : (
                 <div className='container'>
                   <h1 className="display-2 text-center">Welcome!</h1>
-                  <p className='lead text-center'>Hey, this is Weitian Wu and thank you for visiting my personal blog.</p>
+                  <p className='lead text-center'>Hey, this is Weitian Wu and thank you for visiting my space.</p>
                 </div>
               )
             }
@@ -27,10 +27,11 @@ class Home extends Component {
           <div className='col-lg'>
             <div className="card bg-light mb-3" >
               <div className="card-body">
-                <p className="card-text">I am a <span className='font-weight-bold font-italic'>frondend web developer</span> -
-                   I like to involve myself in the design of a website as well as the realization of it.
-                   I have been working in Frontend technologies since 2017. In the past few years, I was working heavily on React.js and jQuery.
-                   And my favourite frameworks and libraries are React.js, Redux, jQuery and Bootstrap.
+                <p className="card-text">I am a <span className='font-weight-bold font-italic'>Frontend Engineer</span> -
+                   I like to involve myself in the UI design of a product as well as the realization of it.
+                   I have been working in Frontend technologies since 2017. In the past three years, I was working heavily on Javascript, HTML5,
+                   CSS3, modern Javascript frameworks such as Vue.js, React.js, modern unit testing frameworks such as Mocha.js, Chai.js, etc.
+                   And my favourite Javascript libraries are Lodash.js, Moment.js and Bootstrap.
                    I have worked at Apple, Inc. and Hangzhou Shishuo Technologies.
                 </p>
               </div>
@@ -60,7 +61,7 @@ class Home extends Component {
           </div>
         </div>
 
-        <p className='lead m-3'>This blog is built on React and Bootstrap 4. Feel free to browse my <a href='/react-projects'>react projects</a> {/*and <a href='/other-projects'>other projects</a>*/} and learn more about me.</p>
+        <p className='lead m-3'>This site is built on React and Bootstrap 4. Feel free to browse my <a href='/react-projects'>react projects</a> {/*and <a href='/other-projects'>other projects</a>*/} and learn more about me.</p>
 
       </div>
     );
